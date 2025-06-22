@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { delay } from "motion";
 
 const HeroText = () => {
-  const words = ["Keren", "Modern", "Responsive"];
+  const words = ["Keren", "Modern", "Responsif"];
   const varians = {
     hidden: { opacity: 0, x: -50 },
     visible: { opacity: 1, x: 0 },
