@@ -266,9 +266,19 @@ export const experiences = [
     ],
   },
   {
+    title: "Quality Assurance",
+    job: "QA Packaging",
+    date: "Feb 2023 - Present",
+    contents: [
+      "Mengimplementasikan design packaging ke bentuk fisik aktualnya.",
+      "Membuat model packaging agar mudah digunakan dalam proses produksi.",
+      "Memverifikasi kualitas produk untuk memastikan sesuai dengan spesifikasi.",
+    ],
+  },
+  {
     title: "Freelance Developer",
     job: "Self-Employed",
-    date: "2025-Present",
+    date: "Des 2024 - Present",
     contents: [
       "Membuat portofolio pribadi yang interaktif dengan Three.js, React, Vite, dan WebAPI untuk menunjukkan keahlian teknis secara menarik dan profesional.",
       "Terus mengasah keterampilan teknis dan memperluas wawasan di dunia pengembangan web modern serta teknologi back-end.",
