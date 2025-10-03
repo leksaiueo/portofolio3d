@@ -262,21 +262,24 @@ export const experiences = [
   },
   {
     title: "Quality Assurance",
-    job: "QA Packaging",
-    date: "Feb 2023 - Present",
+    job: "QA Design Packaging",
+    date: "Feb 2023 - Sept 2025",
     contents: [
       "Mengimplementasikan design packaging ke bentuk fisik aktualnya.",
       "Membuat model packaging agar mudah digunakan dalam proses produksi.",
       "Memverifikasi kualitas produk untuk memastikan sesuai dengan spesifikasi.",
+      "Berkoordinasi dengan tim produksi untuk memastikan packaging sesuai dengan standar kualitas.",
+      "Mengevaluasi dan memberikan umpan balik untuk perbaikan desain packaging.",
     ],
   },
   {
     title: "Freelance Developer",
-    job: "Self-Employed",
+    job: "Freelance Fullstack Developer",
     date: "Des 2024 - Present",
     contents: [
       "Membuat portofolio pribadi yang interaktif dengan Three.js, React, Vite, dan WebAPI untuk menunjukkan keahlian teknis secara menarik dan profesional.",
       "Terus mengasah keterampilan teknis dan memperluas wawasan di dunia pengembangan web modern serta teknologi back-end.",
+      "Menerapkan praktik terbaik dalam pengembangan web untuk memastikan kinerja optimal, keamanan, dan pengalaman pengguna yang luar biasa.",
     ],
   },
 ];
