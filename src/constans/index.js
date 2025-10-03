@@ -1,36 +1,31 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "AI Resume Platform",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "Platform untuk menilai Resume atau CV kamu dengan memakai teknologi AI terbaru dan beberapa tips perkembangan untuk CV/Resume kamu",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Membangun aplikasi analisis CV/Resume berbasis AI menggunakan React.js, dengan integrasi model AI untuk memberikan skor dan saran perbaikan.",
+      "Mengelola data pengguna secara aman menggunakan Puter sebagai cloud database, memastikan performa cepat dan skalabilitas.",
+      "Mendesain antarmuka responsif dengan Tailwind CSS untuk meningkatkan pengalaman pengguna pada berbagai perangkat.",
+      "Mengimplementasikan fitur unggahan dokumen, visualisasi skor, dan rekomendasi personalisasi untuk membantu pengguna meningkatkan kualitas CV/Resume mereka.",
     ],
-    href: "",
+    href: "http://airesume-blue.vercel.app",
     logo: "",
-    image: "assets/projects/accessories.jpg",
+    image: "assets/projects/airesume.PNG",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "assets/logos/csharp.svg",
+        name: "React",
+        path: "assets/logos/react.svg",
       },
       {
         id: 2,
-        name: ".Net",
-        path: "assets/logos/dotnet.svg",
+        name: "Claude AI",
+        path: "assets/logos/claude-ai.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
-        path: "assets/logos/efcore.png",
-      },
-      {
-        id: 4,
         name: "TailwindCSS",
         path: "assets/logos/tailwindcss.svg",
       },
