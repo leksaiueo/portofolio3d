@@ -33,18 +33,17 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "Iphone 15 Web Landing Page",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "Landing page interaktif untuk iPhone 15, menampilkan fitur-fitur utama dengan animasi halus dan desain responsif.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Membuat landing page interaktif untuk iPhone 15 menggunakan React.js dan Tailwind CSS, menampilkan fitur-fitur utama dengan animasi halus.",
+      "Mengintegrasikan animasi dan efek visual menggunakan Framer Motion untuk meningkatkan pengalaman pengguna.",
+      "Mendesain antarmuka responsif yang optimal untuk berbagai perangkat, memastikan pengalaman pengguna yang konsisten.",
     ],
-    href: "",
+    href: "https://iphone-web-clone-ruddy.vercel.app/",
     logo: "",
-    image: "assets/projects/auth-system.jpg",
+    image: "assets/projects/iphone.JPG",
     tags: [
       {
         id: 1,
